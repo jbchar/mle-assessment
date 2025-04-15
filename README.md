@@ -1,7 +1,7 @@
 # Home Price Prediction Api
 Welcome! documented in this repo is the mock api that I created using docker and fastapi as part of the take home assessment for the MLE position at PhData. I hope you enjoy reading through it, and Im happy to answer any questions you have about the code.
 
- ![PhData logo](src\mle_project_challenge_2\phData.png)
+ ![PhData logo](https://github.com/jbchar/mle-assessment/blob/main/src/mle_project_challenge_2/phData.png)
 
 ## Overview:
 for this project I chose to use fastapi as the framework to build the api, here are some of the benefits of choosing fastapi:
