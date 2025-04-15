@@ -81,6 +81,4 @@ This was obviously not enough time to fully flesh out the api. There are a few b
 * more error handling
 
 ## Presentation
-Proposed infra diagrams here and here
-
-Client presentation here
+Presentation and proposed infra diagrams [here](https://docs.google.com/presentation/d/14XSqYv7xkXGyTvZMFF_zoMGKr8YykScvFxvyDY6CMME/edit?slide=id.gc6f73a04f_0_0#slide=id.gc6f73a04f_0_0)
