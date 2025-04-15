@@ -37,7 +37,7 @@ This api is deployed using docker with a fairly simple instalation. simply run t
     * ```docker build -t ml-api . ```
     * ```docker run -p 8000:8000 ml-api ```
 
-* you can then run the script from the top level directory with
+* you can then run the script from the top level directory with this command while the docker container is running
     * ```python test_endpoint.py```
 
  you can also hit the api with adhoc curl commands. Here is an example curl commmand with some extra inputs handled by pydantic (local environment dependent, this is the curl from postman):
