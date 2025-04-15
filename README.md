@@ -34,7 +34,7 @@ And In order to deploy the api I used Docker as was recommended in the assignmen
 
 This api is deployed using docker with a fairly simple instalation. simply run the following commands:
 * deploy the api:
-    * ```docker build -t ml-api /src ```
+    * ```docker build -t ml-api . ```
     * ```docker run -p 8000:8000 ml-api ```
 
 * you can then run the script from the top level directory with
